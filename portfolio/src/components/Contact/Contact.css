@@ -54,6 +54,11 @@ input, textarea{
     color: var(--color-white);
 }
 
+input:required, textarea {
+    background-color: transparent;
+    outline: none;
+}
+
 
 /* ======= MEDIA QUERRIES (MEDUIM DEVICES) ======= */
 
