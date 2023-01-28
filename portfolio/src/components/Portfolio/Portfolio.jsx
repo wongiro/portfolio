@@ -30,9 +30,9 @@ const data = [
   {
     id: 1,
     image: nwa,
-    title: 'Kikumba All Wear',
-    github: 'https://github.com',
-    demo: 'https://cdn.dribbble.com/userupload/4359134/file/original-0f78e992b72e7c3e3e2b12ac57cad710.jpg?compress=1&resize=640x480&vertical=top'
+    title: 'Ngato',
+    github: 'https://github.com/wongiro/ngato',
+    demo: 'https://ngato.netlify.app/'
   }
 ]
 
